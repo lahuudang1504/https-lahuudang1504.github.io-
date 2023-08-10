@@ -137,7 +137,7 @@
 			<img src="https://www.meme-arsenal.com/memes/c121c193cb22b9f186414cde0c477696.jpg" alt="">
 			<div class="content_r clearfix">
 				<div class="content_l clearfix">
-					<h2>Xin chào ~ Tôi là DOTHIENHAO, chào mừng bạn đến !</h2>
+					<h2>Xin chào ~ Tôi là LAHUUDANG, chào mừng bạn đến !</h2>
 					<p class="bio">" Chào mừng đến với trang website của tôi "</p>
 					<p class="bio">nhau nhau nhau</p>
 					<br>
