@@ -137,18 +137,18 @@
 			<img src="https://www.meme-arsenal.com/memes/c121c193cb22b9f186414cde0c477696.jpg" alt="">
 			<div class="content_r clearfix">
 				<div class="content_l clearfix">
-					<h2>Xin chào ~ Tôi là LAHUUDANG, chào mừng bạn đến !</h2>
+					<h2>Xin chào ~ Tôi là LA HUU DANG, chào mừng bạn đến !</h2>
 					<p class="bio">" Chào mừng đến với trang website của tôi "</p>
-					<p class="bio">nhau nhau nhau</p>
+					<p class="bio">nhâu nhâu nhâu nhâu nhâu</p>
 					<br>
-					<p class="color_1">I am an developer</p>
+					<p class="color_1">I am spiderman</p>
 					<!-- <p class="color_1"></p> -->
 					<br>
 					<p class="deeppink">Neu yeu em la mot toi thi a nhan an tu hinh .</p>
 					<div class="link">
 						<a href="https://www.facebook.com/huudang1504" class="dodgerblue" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
 						<a href="https://github.com?-Based-ThanhDieu" class="black" target="_blank"><i class="fa fa-github"></i> Github</a>
-						<a href="https://t.me" class="green" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i> Telegram</a>
+						<a href="https://instagram.com/_huudang.1504" class="green" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i> Telegram</a>
 						<a href="https://www.youtube.com" class="red" target="_blank"><i class="fa fa-youtube-play"></i> Youtube</a>
                     
                     </div>    <br>    <br>    <br>    <br> 
