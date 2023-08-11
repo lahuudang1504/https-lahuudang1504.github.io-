@@ -1,11 +1,55 @@
-               <header>
+<html lang="en">
+<head>
+<style>
+body {
+  background-image: url('./public/images/nen.gif');
+}
+</style>
+</head>
+<body>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Me</title>
+<link id="favicon" rel="shortcut icon" href="" type="image/x-icon">
+
+
+<link rel="stylesheet" href="./public/css/app.css">
+<link rel="stylesheet" href="./public/css/responsive.css">
+<link rel="stylesheet" href="./public/css/vendor.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="center">
+        <div class="popup">
+            <div class="title">
+                Thông Báo
+            </div>
+            <div id="description">
+            </div>
+            <div class="dismiss-btn">
+                <button id="dismiss-popup-btn">
+                    OK
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="root">
+        <div id="main">
+            <div class="container">
+
+
+                <header>
                     <!-- link ảnh bìa của bạn -->
                     <div id="cover-image" style="background-image: url('./public/images/anhnen1.gif');"></div>
                     <div id="profile-header">
                         <!-- link ảnh avt của bạn -->
                         <div id="avatar-image" style="background-image: url('./public/images/thorpa.jpg ');"></div>
                         <div id="name">
-                            <p id="first-name" class="names">Nguyễn Binh Minh</p></p>
+                            <p id="first-name" class="names">La Huu Dang</p></p>
                             <p id="last-name" class="names"></p>
                             <div id="skills">
 
@@ -25,7 +69,7 @@
                             <div class="bio-story-thumb" style="background-image: url('./public/images/facebook.jpg');"></div>
                             <div class="link-content">
                                 <p>Facebook</p>
-                                <span onclick="window.open('https://www.facebook.com/huudang1504/', '_blank')">La Huu Dang</span>
+                                <span onclick="window.open('https://www.facebook.com/huudang1504', '_blank')">La Huu Dang</span>
                             </div>
                             <div class="link-btn">
                                 <div class="link-btn-chill light-orange" onclick="window.open('https://www.facebook.com/huudang1504', '_blank')">OPEN</div>
@@ -55,10 +99,10 @@
                             <div class="bio-story-thumb" style="background-image: url('./public/images/mbbank.png');"></div>
                             <div class="link-content">
                                 <p>MB Bank</p>
-                                <span onclick="copy('9999999999')">9999999999</span>
+                                <span onclick="copy('15042005')">15042005</span>
                             </div>
                             <div class="link-btn">
-                                <div class="link-btn-chill light-blue" onclick="geturl('2008')">COPY</div>
+                                <div class="link-btn-chill light-blue" onclick="geturl('15042005')">COPY</div>
                             </div>
                     </div>      
 				  
@@ -68,10 +112,10 @@
                             <div class="bio-story-thumb" style="background-image: url('./public/images/momo.png');"></div>
                             <div class="link-content">
                                 <p>Momo</p>
-                                <span onclick="copy('999999999')">999999999</span>
+                                <span onclick="copy('15042005')">15042005</span>
                             </div>
                             <div class="link-btn">
-                                <div class="link-btn-chill light-blue" onclick="geturl('2000008')">COPY</div>
+                                <div class="link-btn-chill light-blue" onclick="geturl('15042005')">COPY</div>
                             </div>
                     </div>  
 					
