@@ -147,7 +147,7 @@
 					<div class="link">
 						<a href="https://www.facebook.com/huudang1504" class="dodgerblue" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
 						<a href="https://github.com?-Based-ThanhDieu" class="black" target="_blank"><i class="fa fa-github"></i> Github</a>
-						<a href="https://instagram.com/_huudang.1504" class="green" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i> Telegram</a>
+						<a href="https://t_me-taco2k8" class="green" target="_blank"><i class="fa fa-telegram" aria-hidden="true"></i> Telegram</a>
 						<a href="https://www.youtube.com" class="red" target="_blank"><i class="fa fa-youtube-play"></i> Youtube</a>
                     
                     </div>    <br>    <br>    <br>    <br> 
